@@ -1,0 +1,9 @@
+[submodule "fooddeliveryapp-ui"]
+	path = fooddeliveryapp-ui
+	url = https://github.com/sf-fresher-batch-2020/fooddeliveryapp-ui.git
+[submodule "foodorderapp-api"]
+	path = foodorderapp-api
+	url = https://github.com/sf-fresher-batch-2020/foodorderapp-api.git
+[submodule "fooddeliveryapp-angular-ui"]
+	path = fooddeliveryapp-angular-ui
+	url = https://github.com/sf-fresher-batch-2020/fooddeliveryapp-angular-ui.git
